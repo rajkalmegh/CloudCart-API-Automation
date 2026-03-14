@@ -1,4 +1,5 @@
-
+import urllib3
+urllib3.disable_warnings()
 import requests
 from utils.config import BASE_URL
 
