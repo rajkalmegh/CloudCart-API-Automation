@@ -1,2 +1,1 @@
-
-BASE_URL = "https://your-render-api-url.onrender.com"
+BASE_URL = "https://cloudcart-api-automation.onrender.com"
